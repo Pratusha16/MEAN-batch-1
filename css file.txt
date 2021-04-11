@@ -1,5 +1,5 @@
 <head>
 	<style type = text/css>
-	body { backgroun color : blue;}
+	body { backgroun color : blue,pink;}
 	</style>
 </head>
