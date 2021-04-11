@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myfunction()
+{
+alert("hello world!);
+hi i am pradeep
+}
+</script>
+</head>
+<body>
+<p><button onclick="myfunction()">create a dialog box!</button></P>
+<p><button onclivk="myfunction()">create another dialog box!</button></p>
+</body>
+</html>
